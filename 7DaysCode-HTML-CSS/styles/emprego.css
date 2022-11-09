@@ -1,0 +1,51 @@
+.container__emprego {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.titulo__vermelho--menor {
+  font-size: 14px;
+  color: var(--vermelho);
+  font-weight: 500;
+}
+.titulo__preto {
+  color: var(--fonte-escura);
+  font-size: 36px;
+  font-weight: 500;
+}
+.principal__texto {
+  color: var(--cinza-claro);
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 100px;
+}
+
+.imagem__reuniao {
+  width: 80%;
+}
+
+.vagas__empregos {
+  margin: 0 30em;
+
+}
+
+.titulo_emprego {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--fonte-escura);
+  padding: 3em 0 0 0;
+}
+
+.ocupacao {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--fonte-escura);
+  padding: 3em 1em;
+}
+
+.texto__emprego {
+  color: var(--cinza-claro);
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0 1.2em;
+}

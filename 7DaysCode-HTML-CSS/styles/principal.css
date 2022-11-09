@@ -1,0 +1,25 @@
+.principal {
+  text-align: center;
+}
+.container__texto{
+  padding: 20px 20px;
+}
+
+.texto__vermelho {
+  padding-top: 96px;
+  color: var(--vermelho);
+  font-weight: 600;
+}
+
+.principal__titulo {
+  color: var(--fonte-escura);
+  font-size: 48px;
+  font-weight: 500;
+}
+
+.principal__texto {
+  color: var(--cinza-claro);
+  font-size: 20px;
+  font-weight: 400;
+  padding: 20px 500px;
+}
